@@ -1,0 +1,9 @@
+MinecraftClient:class_310
+getInstance():method_1551()
+player:field_1724
+net.minecraft.client:net.minecraft
+net.minecraft.text:net.minecraft
+Text.of:class_2561.method_30163
+Text:class_2561
+sendMessage:method_43496
+setSprinting:method_5728
